@@ -13,6 +13,7 @@
 - Reach Me **adhithyasanker8@gmail.com**
 
 - just a *begginer*
+- Real Me:𝛥𝐷𝛨𝛪𝛪💎
 
 <h3 align="left">*Flollow me*:</h3>
 <p align="left">
