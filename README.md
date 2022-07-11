@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/jestii.fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jestii.fx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/𝙅𝙀𝙎𝙏𝙄 𝙈𝙋⁴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝙅𝙀𝙎𝙏𝙄 𝙈𝙋⁴" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xvdwk77w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xvdwk77w" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/xvdwk77w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/npuSS3hfdc" height="30" width="40" /></a>
 </p>
 
 
