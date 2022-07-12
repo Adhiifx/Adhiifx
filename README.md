@@ -4,7 +4,7 @@
                                            
                                            
 <h1 align="center">𝛪𝑇𝛧_𝛭𝛯_𝛥𝐷𝛨𝛪 ⃝💎</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A DEVELOPER FROM INDIA</h3>
   
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+JESTI+GIT;CREATED+BY+ADHI+SIR;I+AM+AN+EDITOR+JOIN+DISCORD+FOR+MORE)](https://git.io/typing-svg)
 
