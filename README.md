@@ -8,15 +8,6 @@
   
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+JESTI+GIT;CREATED+BY+ADHI+SIR;I+AM+AN+EDITOR+JOIN+DISCORD+FOR+MORE)](https://git.io/typing-svg)
 
--'Whatsapp Bot'
-
--'I'am Editor'
-
-- Reach Me **adhithyasanker8@gmail.com**
-
-- just a *begginer*
-- Real Name:𝛥𝐷𝛨𝛪𝛪💎
-
 <h3 align="left">*Flollow me*:</h3>
 <p align="left">
 <a href="https://instagram.com/jestii.fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jestii.fx" height="30" width="40" /></a>
